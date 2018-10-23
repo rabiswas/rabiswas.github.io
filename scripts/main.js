@@ -28,7 +28,7 @@ function setUserName() {
     }
     else {
         localStorage.setItem('name', myName);
-        myHeading.textContent = 'Hey ' + myName + '... JS 3 is cool !' ;        
+        myHeading.textContent = 'Hey ' + myName + '... JS 333 is cool !' ;        
     }
 }
 
