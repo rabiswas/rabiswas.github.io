@@ -1,0 +1,32 @@
+html {
+  font-family: 'Exo 2', sans-serif; /* same font picked from google font picker */
+  background-color: lightgoldenrodyellow;
+}
+body {
+  width: 1500px;
+  margin: 5% auto;
+  background-color: dimgrey;
+  padding: 10px 20px 20px 20px;
+  border: 10px solid black;
+}
+h1 {
+  margin: 5%;
+  padding: 50px 0;    
+  color: navajowhite;
+  font-size: 60px;
+  text-shadow: 6px 6px 1px black;
+}
+img {
+    margin: 0 auto;
+    display: block;
+    width: 900px;
+}
+p, li {
+  font-size:     40px;    
+  line-height:      2;
+  letter-spacing: 1px;
+}
+a:hover {
+    background-color: yellow;
+    text-decoration: underline;
+}
